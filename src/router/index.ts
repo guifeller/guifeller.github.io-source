@@ -5,6 +5,7 @@ import Rtd from '../views/Rtd.vue'
 import Salt from '../views/Salt.vue'
 import Surv from '../views/Surv.vue'
 import Wayback from '../views/Wayback.vue'
+import Boilerplate from '../views/Boilerplate.vue'
 
 Vue.use(VueRouter)
 
@@ -38,6 +39,11 @@ const routes: Array<RouteConfig> = [
     path: '/wayback',
     name: 'Wayback',
     component: Wayback
+  },
+  {
+    path: '/boilerplate',
+    name: 'Blog Boilerplate',
+    component: Boilerplate
   },
 ]
 

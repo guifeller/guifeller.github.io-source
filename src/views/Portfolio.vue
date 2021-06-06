@@ -4,7 +4,7 @@
   technologies="Vue.js, Vuetify"
   languages="HTML, CSS, Typescript"
   description="This very website, my portfolio."
-  :links="['https://guifeller.github.io/']"
+  :links="['https://github.com/guifeller/guifeller.github.io-source']"
   />
 </template>
 

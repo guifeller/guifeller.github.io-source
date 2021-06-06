@@ -76,6 +76,10 @@ export default Vue.extend({
                 text: '2D Survival',
                 link: '/surv'
               },
+              {
+                text: 'Blog Boilerplate',
+                link: '/boilerplate'
+              }
             ]
     }
   }
