@@ -12,8 +12,8 @@ Vue.use(VueRouter)
 const routes: Array<RouteConfig> = [
   {
     path: '/',
-    name: 'Portfolio',
-    component: Portfolio
+    name: 'Salt',
+    component: Salt
   },
   {
     path: '/portfolio',
